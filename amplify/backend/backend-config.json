@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"tutorialapp1696e8e2": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
